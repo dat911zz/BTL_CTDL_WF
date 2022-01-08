@@ -1,0 +1,10 @@
+﻿9
+DRINK001 PhamVanA 211 ThanhXuan Q12 TP.HCM 0932111111 ThaiThiThanhNhan 020 ThoiAn Q12 TP.HCM 093277777 12000 500 long
+SNACK001 BuiTienDung 111 ThanhThongTay GoVap TP.HCM 0831298951 NguyenXuanPhuc 18 HoangDieu BaDinh HaNoi 097777777 5000 50 kho
+DRINK022 NguyenVanB 002 LinhTrung ThuDuc TP.HCM 099999999 PhamVanA 211 ThanhXuan Q12 TP.HCM 0932111111 9000 20 de_vo
+ELEC0001 NguyenXuanPhuc 18 HoangDieu BaDinh HaNoi 097777777 BuiTienDung 111 ThanhThongTay GoVap TP.HCM 0831298951 12000 10 kho
+SNACK003 ThaiThiThanhNhan 020 ThoiAn Q12 TP.HCM 093277777 BuiTienDung 111 ThanhThongTay GoVap TP.HCM 0831298951 8000 100 long
+DRINK021 LeTrongTan 22 TayThanh TanPhu TP.HCM 0987654321 NguyenXuanPhuc 18 HoangDieu BaDinh HaNoi 097777777 9500 90 khong_duoc_de_tham_nuoc
+DRUG2077 NguyenXuanPhuc 18 HoangDieu BaDinh HaNoi 097777777 PhamVanA 211 ThanhXuan Q12 TP.HCM 0932111111 900000 60 khong_duoc_de_tham_nuoc
+CARRTON1 BuiTienDung 111 ThanhThongTay GoVap TP.HCM 0831298951 LeTrongTan 22 TayThanh TanPhu TP.HCM 0987654321 50000 55 de_vo
+ELEC0021 NguyenVanB 002 LinhTrung ThuDuc TP.HCM 099999999 LeTrongTan 22 TayThanh TanPhu TP.HCM 0987654321 500000 25 kho
